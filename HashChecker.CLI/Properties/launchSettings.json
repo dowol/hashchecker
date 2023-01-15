@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HashChecker.CLI": {
+      "commandName": "Project",
+      "commandLineArgs": "hash --algorithm SHA256 ./sample.txt --detail"
+    }
+  }
+}
