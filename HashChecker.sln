@@ -9,6 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashChecker.Windows", "Hash
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project Root", "Project Root", "{F0689D5A-D23A-434B-B0BB-E8F4559CDDE3}"
 	ProjectSection(SolutionItems) = preProject
+		hashchecker.png = hashchecker.png
 		LICENSE.txt = LICENSE.txt
 		README.md = README.md
 	EndProjectSection
